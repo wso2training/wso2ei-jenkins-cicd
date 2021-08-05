@@ -3,7 +3,7 @@
     <target>
         <inSequence>
             <payloadFactory description="Set the payload" media-type="json">
-                <format>{“message”:”Hello world!”}</format>
+                <format>{“message”:”Hello our world!”}</format>
                 <args/>
             </payloadFactory>
             <respond description="Send the response"/>
